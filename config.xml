@@ -22,7 +22,7 @@
   <preference name="target-device"     value="universal"/>
   <prefenrence name="fullscreen"      value="true"/>
   <prefenrence name="android-installLocation"  value="auto"/>
-  <prefenrence namw="permissions"   value="INTERNET"/>
+  <prefenrence name="permissions"   value="INTERNET"/>
   
   <!--plugims-->
   <plugin name="cordova-plugin-device"  spec="~1.1.4"/>
